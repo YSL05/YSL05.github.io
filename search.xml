@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>博客优化策略</title>
+    <url>/2024/12/22/blog_beauty/</url>
+    <content><![CDATA[<h2 id="我的blog我做主"><a href="#我的blog我做主" class="headerlink" title="我的blog我做主"></a>我的blog我做主</h2><li>1、设置标签形状</li>
+在博客项目中找到/themes/next/layout/_macro/post.swig，搜索 rel=”tag”，将 #号 换成
+<i class="fa fa-tag"></i>
+<span id="more"></span>
+<li>2、设置头像</li>
+# Sidebar Avatar
+avatar:
+  # Replace the default image and set the url here.
+  url: #/images/avatar.gif
+  # If true, the avatar will be dispalyed in circle.
+  rounded: false
+  # If true, the avatar will be rotated with the cursor.
+  rotated: false
+<li>3、设置网站图标</li>
+
+<li>4、站内搜索</li>
+
+<li>5、设置圆角文章</li>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于github搭建个人博客</title>
+    <url>/2024/12/22/blog_build_guide/</url>
+    <content><![CDATA[<h2 id="为什么要搭建个人blog"><a href="#为什么要搭建个人blog" class="headerlink" title="为什么要搭建个人blog"></a>为什么要搭建个人blog</h2><p>从开始接触计算机开始，就通过互联网上的各个网站认识到了各大牛人，他们都热衷于知识分享，有些是历史相关，有些是单片机技术相关，有些是文艺相关的……，如此种种，他们有个共同的特点，编写自己的文章，无偿分享给世界上任何访问该网站的人。</p>
+<span id="more"></span>
+<p>遥想人类知识的传播历史，从美索不达米亚最早的泥板学堂到诸子百家思想争鸣，从东汉时代造纸术的改进到活字印刷术的发明，再到如今的电子信息技术的发展，跨越人类原始社会到现代社会的历史长河，我们一直站在巨人的肩膀上前行，知识的载体不断演进，人类分享知识的方向从未改变。出于记录个人学习生活的需要，搭建个人博客，同时也希望能够给接触互联网的人们提供一些有用的帮助！！！分享万岁！！！<br>第一篇blog就从如何基于github搭建blog开始</p>
+<h2 id="搭建Blog的步骤分解"><a href="#搭建Blog的步骤分解" class="headerlink" title="搭建Blog的步骤分解"></a>搭建Blog的步骤分解</h2><li>新建github的仓库 </li>
+<li>本地安装hexo库 </li>
+<li>本地安装blog主题 </li>
+<li>本地添加第一篇blog </li>
+<li>应用到本地blog到github仓库 </li>
+
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>排序算法总结</title>
+    <url>/2024/12/22/sort-algorithm/</url>
+    <content><![CDATA[<h2 id="排序算法种类"><a href="#排序算法种类" class="headerlink" title="排序算法种类"></a>排序算法种类</h2>]]></content>
+      <tags>
+        <tag>algorithm</tag>
+      </tags>
+  </entry>
+</search>
