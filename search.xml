@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>电子元器件入门</title>
+    <url>/2024/12/22/EE_circle_guide/</url>
+    <content><![CDATA[<h1 id="认识元器件"><a href="#认识元器件" class="headerlink" title="认识元器件"></a>认识元器件</h1><h1 id="认识原理图"><a href="#认识原理图" class="headerlink" title="认识原理图"></a>认识原理图</h1><h1 id="PCB电路板设计及打样"><a href="#PCB电路板设计及打样" class="headerlink" title="PCB电路板设计及打样"></a>PCB电路板设计及打样</h1><h1 id="电子焊接"><a href="#电子焊接" class="headerlink" title="电子焊接"></a>电子焊接</h1><h1 id="软件编程"><a href="#软件编程" class="headerlink" title="软件编程"></a>软件编程</h1><h1 id="外壳设计"><a href="#外壳设计" class="headerlink" title="外壳设计"></a>外壳设计</h1>]]></content>
+      <tags>
+        <tag>电路</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客优化策略</title>
     <url>/2024/12/22/blog_beauty/</url>
     <content><![CDATA[<h2 id="我的blog我做主"><a href="#我的blog我做主" class="headerlink" title="我的blog我做主"></a>我的blog我做主</h2><li>1、设置标签形状</li>
